@@ -1,16 +1,72 @@
-### Hi there 👋
+<h1 align="center">Hey there! 👋</h1>
 
-<!--
-**gvvq/gvvq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="center">👨‍💻 About me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="center">Im ohhq!<br>- ✨ I'm Currently mastering Python!<br>- ⚡ In my free time I do scripts for nighty.one!</p>
+
+###
+
+<h3 align="center">📁 Where to find me</h3>
+
+###
+
+<div align="center">
+    <a href="https://discord.com/users/1007749419652882523" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurdodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+    </a>
+    <a href="https://t.me/ohhqs" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurdodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram log" />
+    </a>
+</div>
+
+###
+
+<h3 align="center">🛠 Languages</h3>
+
+###
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/python/python-original.svg" height="41" alt="python logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/javascripts/javascripts-original.svg" height="41" alt="javascript logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/lua/lua-original.svg" height="41" alt="lua logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/html5/html5-original.svg" height="41" alt="html5 logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/css3/css3-original.svg" height="41" alt="css3 logo" />
+</div>
+
+###
+
+<h3 align="center">🔧 Tools</h3>
+
+###
+
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/vscode/vscode-original.svg" height="41" alt="vscode logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/nodejs/nodejs-original.svg" height="41" alt="nodejs logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/linux/linux-original.svg" height="41" alt="linux logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/npm/npm-original.svg" height="41" alt="npm logo" />
+    <img width="10" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/discordjs/discordjs-original.svg" height="41" alt="discordjs logo" />
+    <img width="10" />
+    <a href="https://nighty.one" target="_blank">
+        <img src="https://nighty.one/assets/images/logo/nighty.png" height="41" alt="Nighty logo" />
+    </a>
+</div>
+
+###
+
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=gvvq.gvvq&left_color=black&right_color=darkgray&left_text=Views!" />
+</div>
+
+###
