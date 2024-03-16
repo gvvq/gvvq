@@ -59,7 +59,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" height="41" alt="discordjs logo" />
     <img width="10" />
     <a href="https://nighty.one" target="_blank">
-        <img src="https://nighty.one/assets/images/logo/nighty.png" height="41" alt="Nighty logo" />
+        <img src="https://nighty.one/assets/images/logo/nighty.png" height="40" alt="Nighty logo" />
     </a>
 </div>
 
