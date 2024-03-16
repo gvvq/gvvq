@@ -30,15 +30,15 @@
 ###
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/python/python-original.svg" height="41" alt="python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="41" alt="python logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/javascripts/javascripts-original.svg" height="41" alt="javascript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="41" alt="javascript logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/lua/lua-original.svg" height="41" alt="lua logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height="41" alt="lua logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/html5/html5-original.svg" height="41" alt="html5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="41" alt="html5 logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/css3/css3-original.svg" height="41" alt="css3 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="41" alt="css3 logo" />
 </div>
 
 ###
@@ -47,16 +47,16 @@
 
 ###
 
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/vscode/vscode-original.svg" height="41" alt="vscode logo" />
+<div align="center">    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="41" alt="vscode logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/nodejs/nodejs-original.svg" height="41" alt="nodejs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="41" alt="nodejs logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/linux/linux-original.svg" height="41" alt="linux logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="41" alt="linux logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/npm/npm-original.svg" height="41" alt="npm logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="41" alt="npm logo" />
     <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/icons/discordjs/discordjs-original.svg" height="41" alt="discordjs logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" height="41" alt="discordjs logo" />
     <img width="10" />
     <a href="https://nighty.one" target="_blank">
         <img src="https://nighty.one/assets/images/logo/nighty.png" height="41" alt="Nighty logo" />
