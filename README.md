@@ -16,10 +16,10 @@
 
 <div align="center">
     <a href="https://discord.com/users/1007749419652882523" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurdodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="52" height="40" alt="discord logo" />
     </a>
     <a href="https://t.me/ohhqs" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurdodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram log" />
+        <img src="https://icons8.com/icon/63306/telegram-app" width="52" height="40" alt="telegram log" />
     </a>
 </div>
 
