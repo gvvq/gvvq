@@ -19,7 +19,7 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="52" height="40" alt="discord logo" />
     </a>
     <a href="https://t.me/ohhqs" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="52" height="40" alt="telegram log" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="48" height="48" alt="telegram log" />
     </a>
 </div>
 
