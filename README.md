@@ -18,7 +18,7 @@
     <a style="text-decoration:none;" href="https://discord.com/users/1007749419652882523" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="52" height="40" alt="discord logo" />
     </a>
-    <a style="text-decoration:none;" href="https://t.me/ohhqs" target="_blank">
+    <a style="text-decoration:none;" href="https://t.me/ohhqs">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40" alt="telegram log" />
     </a>
 </div>
