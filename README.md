@@ -15,10 +15,10 @@
 ###
 
 <div align="center">
-    <a href="https://discord.com/users/1007749419652882523" target="_blank">
+    <a style="text-decoration:none;" href="https://discord.com/users/1007749419652882523" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="52" height="40" alt="discord logo" />
     </a>
-    <a href="https://t.me/ohhqs" target="_blank">
+    <a style="text-decoration:none;" href="https://t.me/ohhqs" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40" alt="telegram log" />
     </a>
 </div>
@@ -58,10 +58,10 @@
     <img width="10" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" height="41" alt="discordjs logo" />
     <img width="10" />
-    <a href="https://discordpy.readthedocs.io/en/stable/" target="_blank"> 
+    <a style="text-decoration:none;" href="https://discordpy.readthedocs.io/en/stable/" target="_blank"> 
         <img src="https://devicons.railway.app/i/discord-py.svg" height="41" alt="discord-py logo" />
     <img width="10" />
-    <a href="https://nighty.one" target="_blank">
+    <a style="text-decoration:none;" href="https://nighty.one" target="_blank">
         <img src="https://nighty.one/assets/images/logo/nighty.png" height="40" alt="Nighty logo" />
     </a>
 </div>
