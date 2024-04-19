@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Im ohhq!<br>- ✨ I'm Currently mastering Python!<br>- ⚡ In my free time I do scripts for nighty.one!</p>
+<p align="center">- 💻 Im ohhq!<br>- ✨ I'm Currently mastering Python!<br>- ⚡ In my free time I do random Projects!</p>
 
 ###
 
