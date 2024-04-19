@@ -72,7 +72,7 @@
 ###
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=gvvq.gvvq&left_color=black&right_color=darkgray&left_text=Views!" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=gvvq.gvvq" />
 </div>
 
 ###
