@@ -41,7 +41,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="41" alt="html5 logo" />
     <img width="10" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="41" alt="css3 logo" />
-    <img width="10" />
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" height="41" alt="java" />
 </div>
 
